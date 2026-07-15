@@ -1,6 +1,6 @@
 # Hi there, I'm Saida Bayramova! 👋
 
-I am a Computer Science student pivoting into the world of Data Science and Machine Learning. With a solid foundation in software engineering principles, algorithms, and databases, I love analyzing complex datasets and building predictive models.
+I am a Computer Science student pivoting into the world of Data Analytics, Data Science and Machine Learning. With a solid foundation in software engineering principles, algorithms, and databases, I love analyzing complex datasets and building predictive models.
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat) (![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white), ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)), ![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white)
